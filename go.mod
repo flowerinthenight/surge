@@ -6,9 +6,9 @@ require (
 	github.com/cilium/ebpf v0.19.0
 	github.com/golang/glog v1.2.5
 	github.com/lmittmann/tint v1.1.2
-	github.com/spf13/cobra v1.9.1
-	github.com/spf13/pflag v1.0.7
-	golang.org/x/sys v0.35.0
+	github.com/spf13/cobra v1.10.1
+	github.com/spf13/pflag v1.0.10
+	golang.org/x/sys v0.37.0
 	k8s.io/apimachinery v0.30.13
 	k8s.io/client-go v0.30.13
 )
